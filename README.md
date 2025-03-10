@@ -21,7 +21,8 @@ This project is an **end-to-end analysis of Ola ride data**, where we extract, c
 - **Ride Completion Rate**
 
 ## 📽️ Demo Video
-🔗 **Watch the demo here:** [https://drive.google.com/file/d/1MeVKsKjUmaAk7vjTYy0TRr3d7tdYsP56/view?usp=drive_link]
+🔗 **Watch the demo here:**
+https://drive.google.com/file/d/1MeVKsKjUmaAk7vjTYy0TRr3d7tdYsP56/view?usp=drive_link
 
 ## 📂 Project Files
 - **Bookings-100000-Rows.xlsx** – Contains raw ride data.
